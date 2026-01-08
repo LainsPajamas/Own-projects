@@ -1,0 +1,8 @@
+What is the largest planet in our solar system?:Jupiter
+What is the most abundant gas in our atmosphere?:Nitrogen
+What is the hardest natural element in nature?:Diamond
+What is the largest internal organ in human body?:Liver
+What subatomic particle determines an element’s identity?:Proton
+What particle carries the electromagnetic force?:Photon
+What do bees collect from flowers to make honey?:Nectar
+What is the periodic symbol for gold?:Au
