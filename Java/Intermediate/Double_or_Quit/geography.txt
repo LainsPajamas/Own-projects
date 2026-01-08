@@ -1,0 +1,6 @@
+What is the largest ocean on Earth?:Pacific
+What is the longest river in South America?:Amazon
+What is the name of the world's deepest ocean trench?:Mariana
+What is the capitla of Australia?:Canberra
+What kind of natural disaster creates tsunami?:Earthquake
+What small, mountainous European country is bordered only by France and Spain?:Andorra
